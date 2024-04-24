@@ -27,7 +27,7 @@ for item in chapter_links:
     chapter_name = item.string                              #本话的名字
     # if(chapter_name == "1.姐姐1"):continue
     """ 
-    1、1-415(ok) 416(X) 1-546(pdf) 546-最新
+    1、1-415(ok) 416(X) 1-546(pdf) 485-534(ok) 546-最新
     2、485对应506 
     3、490(X)
     4、534对应521
